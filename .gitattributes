@@ -1,1 +1,1 @@
-*.cpp ident
+*.cpp ruby=diff
