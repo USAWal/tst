@@ -1,1 +1,1 @@
-*.cpp ruby=diff
+*.cpp diff=ruby
